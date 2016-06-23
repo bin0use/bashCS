@@ -31,6 +31,14 @@ h2 {
 
 h3 {
 	margin-left: 1%;
+	padding-top: 1%;
+	border-top-style: dashed;
+	border-top-width: thin;
+	border-top-color:#0b0;
+}
+
+#bShort {
+	border: none;
 }
 
 table {
