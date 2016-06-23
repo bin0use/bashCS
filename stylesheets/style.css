@@ -49,3 +49,8 @@ table {
 	font-size: 18px;
 	text-decoration: none;
 }
+
+.banner {
+	text-align: left;
+	font-family: Arial;
+}
