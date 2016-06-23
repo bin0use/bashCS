@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "Clacon";
+	src: url('../fonts/clacon.ttf');
+}
+
+* {
+	background-color: #151515;
+	color: #00BB00;
+	font-family: "Clacon", Helvetica, Arial, sans-serif;
+	font-size: 26px;
+}
+
+h1 {
+	font-size: 45px;
+}
+
+h2 {
+	font-size: 40px;
+}
