@@ -5,7 +5,7 @@
 
 * {
 	background-color: #151515;
-	color: #00BB00;
+	color: #00BB20;
 	font-family: "Clacon", Helvetica, Arial, sans-serif;
 	font-size: 26px;
 }
@@ -19,6 +19,16 @@ header {
 
 ul li {
 	display: inline;
+	text-align: right;
+}
+
+a {
+	text-decoration:none;
+	color: #00ff42;
+}
+
+a:hover {
+	color: #00ffaa;
 }
 
 h1 {
@@ -48,6 +58,7 @@ table {
 .top {
 	font-size: 18px;
 	text-decoration: none;
+	text-align: right;
 }
 
 #banner {
