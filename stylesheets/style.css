@@ -10,6 +10,17 @@
 	font-size: 26px;
 }
 
+header {
+	text-align: center;
+	border-style: dashed;
+	border-width: medium;
+	border-color: #00bb00;
+}
+
+ul li {
+	display: inline;
+}
+
 h1 {
 	font-size: 50px;
 }
