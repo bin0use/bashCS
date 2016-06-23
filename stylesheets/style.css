@@ -17,9 +17,9 @@ header {
 	border-color: #00bb00;
 }
 
-ul li {
+li {
 	display: inline;
-	text-align: right;
+	text-align: center;
 }
 
 a {
@@ -59,6 +59,7 @@ table {
 	font-size: 18px;
 	text-decoration: none;
 	text-align: right;
+	margin-left: 1%;
 }
 
 #banner {
