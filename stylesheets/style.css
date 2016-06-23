@@ -50,7 +50,8 @@ table {
 	text-decoration: none;
 }
 
-.banner {
-	text-align: left;
-	font-family: Arial;
+#banner {
+	text-align: center;
+	margin-top: 1%;
+	margin-bottom: 1%;
 }
