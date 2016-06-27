@@ -17,9 +17,13 @@ header {
 	border-color: #00bb00;
 }
 
-li {
-	display: inline;
-	text-align: center;
+h2 {
+	margin-bottom: 0px;
+}
+
+nav {
+	margin-top: 3px;
+	margin-bottom: 10px;
 }
 
 a {
